@@ -7,7 +7,7 @@ export default function LanguageToggle() {
     <div
       role="group"
       aria-label={t.languageToggle.label}
-      className="fixed top-4 right-4 z-50 flex items-center gap-0.5 rounded-full border border-gold/30 bg-neutral-950/80 p-1 backdrop-blur-md sm:top-6 sm:right-6"
+      className="fixed top-[92px] right-4 z-50 flex items-center gap-0.5 rounded-full border border-gold/30 bg-neutral-950/80 p-1 backdrop-blur-md sm:right-6"
     >
       <button
         type="button"
